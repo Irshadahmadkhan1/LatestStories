@@ -14,7 +14,7 @@ This project is a simple Java-based web server application that fetches the late
 - **JSON Response**: The extracted stories are returned in a JSON format, with each object containing the story's title and link.
   
 ## 🔗 Links
-https://github.com/Irshadahmadkhan1/LatestStories/edit/master
+https://github.com/Irshadahmadkhan1/LatestStories/tree/master
 
 ## Requirements
 
