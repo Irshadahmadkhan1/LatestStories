@@ -22,7 +22,7 @@ https://github.com/Irshadahmadkhan1/LatestStories/tree/master
 - **Internet Connection**: Required to fetch data from Time.com
 
 ## How to Run
-- API END POINT
+- API ENDPOINT
 - http://localhost:8080/getTimeStories
 1. **Clone the repository**:
    ```bash
