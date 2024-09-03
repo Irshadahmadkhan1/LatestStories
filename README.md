@@ -23,7 +23,7 @@ https://github.com/Irshadahmadkhan1/LatestStories/tree/master
 
 ## How to Run
 - API ENDPOINT
-- http://localhost:8080/getTimeStories
+ http://localhost:8080/getTimeStories
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/time-stories-fetcher.git
