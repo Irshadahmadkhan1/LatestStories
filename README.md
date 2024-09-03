@@ -12,13 +12,14 @@ This project is a simple Java-based web server application that fetches the late
 
 - **Fetch Latest Stories**: The application fetches the latest 6 stories from the Time.com homepage.
 - **JSON Response**: The extracted stories are returned in a JSON format, with each object containing the story's title and link.
+🔗 Links
+https://github.com/Irshadahmadkhan1/LatestStories/edit/master
 
 ## Requirements
 
 - **Java 8** or higher
 - **Internet Connection**: Required to fetch data from Time.com
 
-Links https://github.com/Irshadahmadkhan1/LatestStories/tree/master
 ## How to Run
 
 1. **Clone the repository**:
